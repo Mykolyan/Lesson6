@@ -96,7 +96,7 @@
 //   name: "Dasha Happy",
 // });
 
-// console.log(Dasha);
+// console.log(Kris);
 
 // const a = [1, 2, 3];
 // console.log(a);
